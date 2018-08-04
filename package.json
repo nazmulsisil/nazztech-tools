@@ -1,0 +1,9 @@
+{
+  "name": "nazztech-tools",
+  "version": "1.0.1",
+  "description": "general purpose tools",
+  "main": "index.js",
+  "author": "nazmul",
+  "license": "MIT",
+  "dependencies": {}
+}
